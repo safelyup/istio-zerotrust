@@ -4,7 +4,7 @@ An access control solution for microservices deployed on Kubernetes and Istio Se
 
 ## Blog Post
 
-For more info see the [Blog Post](https://safelyup.net/).
+For more info see the [Blog Post](https://safelyup.net/istio-zero-trust-fine-grained-access-control-for-microservices-40e4535749e8).
 
 ## Local Deployment - Minikube
 
